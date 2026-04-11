@@ -1,11 +1,11 @@
-# My Startup 🚀
+# Star 🚀
 
 Next.js + TypeScript + Vercel
 
 ## Quick Start
 
 ```bash
-cd my-startup
+cd star
 npm run dev
 ```
 
